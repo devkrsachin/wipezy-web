@@ -449,6 +449,8 @@ h2 {
 }
 
 .features {
+    position: relative;
+    z-index: 1;
     background: var(--mint)
 }
 
